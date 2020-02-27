@@ -3,6 +3,12 @@ PRG_C: First exercise series
 
 AKO, HSLU, 2020-02-27
 
+Folder for this exercise: 01_FirstExercise
+
+compile reminder:
+
+gcc -Wall mySourceFile.c -o ex0201
+
 
 Exercise 1:
 -----------
