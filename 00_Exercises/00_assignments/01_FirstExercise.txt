@@ -1,0 +1,39 @@
+PRG_C: First exercise series
+----------------------------
+
+AKO, HSLU, 2020-02-27
+
+Folder for this exercise: 01_FirstExercise
+
+compile reminder:
+
+gcc -Wall mySourceFile.c -o ex0201
+
+
+Exercise 1:
+-----------
+
+Write a C program to compute the sum of the two given integer values. If the two values are the same, then return triple their sum.
+
+expected binary: ex0201
+
+expected output:
+3
+12
+
+
+Exercise 2:
+-----------
+Write a C program that performs all arithmetic operations on two given numbers. 
+
+Hard coded input numbers: 10, 4
+
+expected binary: ex0202
+
+expected output:
+Sum = 14
+Difference = 6
+Product = 40
+Quotient = 2.5
+Modulus = 2
+
